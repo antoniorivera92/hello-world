@@ -4,11 +4,12 @@ Fuck beauty contests! Life is one beauty contest after another. [...] You do wha
 # MarkDown
 Mientras seguía el tutorial noté que GitHub trabaja con **MarkDown** así que haré unas pruebas. Probablemente, después, suba mi primer notebook de **Julia**.
 ## Ecuación Cool (1)
-Realmente no se me ocurren muchas ecuaciones en estos momentos así que usaré alguna que haya visto recientemente:
+Realmente no se me ocurren muchas ecuaciones en estos momentos, así que usaré alguna que haya visto recientemente:
 $$\frac{dL}{dT} \propto L_0$$
 \begin{equation}
 \Rightarrow \Delta L=\alpha L_0 \Delta T.
 \end{equation}
+con $L_0$ la longitud inicial (¡chafa!).
 Puse esta ecuación porque estoy tomando Termodinámica este semestre (ya sé, ¿apenas?). Aún me pregunto si puedo usar texto tipo código en **MarkDown**. Seguiré buscando.
 ### Link Cool (1)
 Ahora agregaré un link, cosa que no recuerdo pero que buscaré rápido.
